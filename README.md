@@ -44,8 +44,8 @@ Display all the Transformed images.
 
 ## Program:
 ```
-Developed By: S.Sham Rathan
-Register Number: 212221230093
+Developed By: VISHAL GOWTHAMAN K R
+Register Number: 212221230123
 ```
 ### i)Image Translation:
 ```
